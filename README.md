@@ -1,2 +1,1 @@
-# filorux-cc-github.io
-# filorux-cc-github.io
+This is just for me because i'm starting out with git.
